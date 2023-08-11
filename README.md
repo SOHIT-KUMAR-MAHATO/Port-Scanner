@@ -7,11 +7,10 @@ Steps:
 3. java PortScanner help
 
 Usage: 
- java PortScanner <targetHost> <startPort> <endPort>
+ java PortScanner targetHost startPort endPort
+ 
 Example: 
  java PortScanner google.com 1 100
- java PortScanner yahoo.com 20 50
- java PortScanner twitter.com 80 80
 				          
                       @sohit_mahato
 
